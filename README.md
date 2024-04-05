@@ -19,3 +19,6 @@ pip install -r requirements.txt
 ### Rodar a aplicação em si
 
 pyhton app.py
+
+quando o comando de cima carregar, entre na seguinte página: http://127.0.0.1:7000/info
+
